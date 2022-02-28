@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://nextjs.org">Next.js</a> Shopify App Boilerplate
+          <a href="https://nextjs.org">Next.js</a> Shopifuy App Boilerplate
         </h1>
 
         <p className={styles.description}>
